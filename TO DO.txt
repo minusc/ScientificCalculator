@@ -1,0 +1,7 @@
+* add floating point arithmetic support
+
+* add x^y
+
+* debug "Clear" button
+
+* after each equal ("=") erase output
